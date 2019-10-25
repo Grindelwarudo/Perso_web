@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Firas Hammami</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Hello there, I&amp;rsquo;m Firas Hammami. I&amp;rsquo;m currently completing my PhD at Aix-Marseille Université under the supervision of Elisabeth Remy and Pierre Mandin.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m interested in the mathematical modelling approach (especially the logic formalism) and its application on biological systems, like the regulation of the Iron Sulfur Cluster biogenesis in the bacterium &lt;em&gt;Escherichia coli&lt;/em&gt;. The mathematical modelling approach allows me to understand better the complex regulations involved in biological processes, which i&amp;rsquo;m fond of!&lt;/p&gt;
+
+&lt;p&gt;On this website, you will see that I got passionnate about two more things: teaching and making videos. By the way, I was a founder of a collaboration for Bioinfuse (a french contest for the popularization of Bioinformatics), which won the 2017 edition.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nicolas Robert  (1), Firas Hammami (1), Guy Lhomond, Philippe Dru, Thierry Lepage, Michael Schubert, Jenifer C. Croce</title>
+      <link>/authors/nicolas-robert-1-firas-hammami-1-guy-lhomond-philippe-dru-thierry-lepage-michael-schubert-jenifer-c.-croce/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/nicolas-robert-1-firas-hammami-1-guy-lhomond-philippe-dru-thierry-lepage-michael-schubert-jenifer-c.-croce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

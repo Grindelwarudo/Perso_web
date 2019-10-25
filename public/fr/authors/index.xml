@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Firas Hammami</title>
+    <link>/fr/authors/</link>
+      <atom:link href="/fr/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><copyright>© 2019</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/fr/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/fr/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/fr/authors/admin/</guid>
+      <description>&lt;p&gt;Bonjour! Je suis Firas Hammami. Je suis en train de finir mon doctorat à Aix-Marseille Université, qui est encadré par Elisabeth Remy and Pierre Mandin.&lt;/p&gt;
+
+&lt;p&gt;Je m&amp;rsquo;intéresse à l&amp;rsquo;approche de modélisation mathématique (surtout le formalisme logique) et à son application aux systèmes biologiques, dont la régulation de la biogenèse des centres Fer-Soufre chez la bactérie modèle &lt;em&gt;Escherichia coli&lt;/em&gt;. Cette approche de modélisation mathématique me permet de mieux comprendre les régulations complexes impliquées dans les processus biologiques, et c&amp;rsquo;est ce qui me passionne dans tout ça!&lt;/p&gt;
+
+&lt;p&gt;Sur ce site, vous allez voir que je suis passionné par deux autres choses: l&amp;rsquo;enseignement et la création de vidéos. Pour info, j&amp;rsquo;ai été le fondateur d&amp;rsquo;une collaboration pour un concours de vulgarisation de la bioinformatique nommé Bioinfuse, où nous avons gagné le 1er prix pour l&amp;rsquo;édition 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nicolas Robert  (1), Firas Hammami (1), Guy Lhomond, Philippe Dru, Thierry Lepage, Michael Schubert, Jenifer C. Croce</title>
+      <link>/fr/authors/nicolas-robert-1-firas-hammami-1-guy-lhomond-philippe-dru-thierry-lepage-michael-schubert-jenifer-c.-croce/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/fr/authors/nicolas-robert-1-firas-hammami-1-guy-lhomond-philippe-dru-thierry-lepage-michael-schubert-jenifer-c.-croce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
