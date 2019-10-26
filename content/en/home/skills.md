@@ -18,31 +18,44 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "75%"  
+  description = ""  
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "75%" 
+  description = "" 
 
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "50%" 
+  description = "" 
   
 
 [[feature]]
   icon = "youtube"
   icon_pack = "fab"
   name = "Video making"
-  description = "40%"
+  description = "Sony Vegas / After Effects / Inkscape / GIMP"
+
+[[feature]]
+  icon = "chart-network"
+  icon_pack = "fas"
+  name = "Mathematical modelling"
+  description = "GINsim"
+
+
+[[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Biology"
+  description = "Molecular Biology / Microbiology"
 
 +++
