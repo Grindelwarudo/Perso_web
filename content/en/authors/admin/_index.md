@@ -25,7 +25,7 @@ name: Firas Hammami
 organizations:
 - name: Aix-Marseille Université
   url: ""
-role: PhD Student
+role: PhD Student in Bioinformatics
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,7 +45,7 @@ user_groups:
 - Visitors
 ---
 
-Hello there, I'm Firas Hammami. I'm currently completing my PhD at Aix-Marseille Université under the supervision of Elisabeth Remy and Pierre Mandin.
+Hello there, I'm Firas Hammami. I'm currently completing my PhD in Bioinformatics and Genomics at Aix-Marseille Université under the supervision of Elisabeth Remy and Pierre Mandin.
 
 I'm interested in the mathematical modelling approach (especially the logic formalism) and its application on biological systems, like the regulation of the Iron Sulfur Cluster biogenesis in the bacterium *Escherichia coli*. The mathematical modelling approach allows me to understand better the complex regulations involved in biological processes, which i'm fond of!
 
