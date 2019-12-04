@@ -48,8 +48,8 @@ subtitle = ""
 [[feature]]
   icon = "chart-network"
   icon_pack = "fas"
-  name = "Modélisation mathématique"
-  description = "GINsim"
+  name = "Modélisation Logique"
+  description = "GINsim / MaBoSS"
 
 
 [[feature]]

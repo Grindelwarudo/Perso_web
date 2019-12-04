@@ -16,7 +16,7 @@ education:
 email: ""
 interests:
 - Biologie des systèmes
-- Modélisation mathématique
+- Modélisation logique
 - Bioinformatique
 - Biologie du Développement
 - Microbiologie
@@ -44,7 +44,7 @@ user_groups:
 - Visitors
 ---
 
-Bonjour! Je suis Firas Hammami. Je suis en train de finir mon doctorat en Bioinformatique et Génomique à Aix-Marseille Université, qui est encadré par Elisabeth Remy and Pierre Mandin.
+Bonjour! Je suis Firas Hammami. Je suis en train de finir mon doctorat en Bioinformatique et Génomique à Aix-Marseille Université, qui est encadré par Elisabeth Remy (Institut de Mathématiques de Marseille, I2M) and Pierre Mandin (Laboratoire de Chimie Bactérienne, LCB).
 
 Je m'intéresse à l'approche de modélisation mathématique (surtout le formalisme logique) et à son application aux systèmes biologiques, dont la régulation de la biogenèse des centres Fer-Soufre chez la bactérie modèle *Escherichia coli*. Cette approche de modélisation mathématique me permet de mieux comprendre les régulations complexes impliquées dans les processus biologiques, et c'est ce qui me passionne dans tout ça!
 
