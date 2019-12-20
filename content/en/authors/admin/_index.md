@@ -25,7 +25,7 @@ name: Firas Hammami
 organizations:
 - name: Aix-Marseille Université
   url: ""
-role: PhD Student in Bioinformatics
+role: PhD in Bioinformatics
 social:
 - icon: envelope
   icon_pack: fas
