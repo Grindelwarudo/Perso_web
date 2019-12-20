@@ -45,7 +45,7 @@ user_groups:
 - Visitors
 ---
 
-Hello there, I'm Firas Hammami. I'm currently completing my PhD in Bioinformatics and Genomics at Aix-Marseille Université under the supervision of Elisabeth Remy (Institut de Mathématiques de Marseille, I2M) and Pierre Mandin (Laboratoire de Chimie Bactérienne, LCB).
+Hello there, I'm Firas Hammami. I have recently finished my PhD in Bioinformatics and Genomics at Aix-Marseille Université under the supervision of Elisabeth Remy (Institut de Mathématiques de Marseille, I2M) and Pierre Mandin (Laboratoire de Chimie Bactérienne, LCB).
 
 I'm interested in the mathematical modelling approach (especially the logic formalism) and its application on biological systems, like the regulation of the Iron Sulfur Cluster biogenesis in the bacterium *Escherichia coli*. The mathematical modelling approach allows me to understand better the complex regulations involved in biological processes, which i'm fond of!
 
