@@ -47,6 +47,6 @@ user_groups:
 
 Hello there, I'm Firas Hammami. I have recently finished my PhD in Bioinformatics and Genomics at Aix-Marseille Université under the supervision of Elisabeth Remy (Institut de Mathématiques de Marseille, I2M) and Pierre Mandin (Laboratoire de Chimie Bactérienne, LCB).
 
-I'm interested in the mathematical modelling approach (especially the logic formalism) and its application on biological systems, like the regulation of the Iron Sulfur Cluster biogenesis in the bacterium *Escherichia coli*. The mathematical modelling approach allows me to understand better the complex regulations involved in biological processes, which i'm fond of!
+I'm interested in the mathematical modelling approach (especially the logic formalism) and its application on biological systems, such as the regulation of the Iron Sulfur Cluster biogenesis in the bacterium *Escherichia coli*. The mathematical modelling approach allows me to better understand the complex regulations involved in biological processes, which i'm fond of!
 
 On this website, you will see that I got passionnate about two more things: teaching and making videos. By the way, I was a founder of a collaboration for Bioinfuse (a french contest for the popularization of Bioinformatics), which won the 2017 edition.
