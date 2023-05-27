@@ -43,19 +43,19 @@ subtitle = ""
   icon = "youtube"
   icon_pack = "fab"
   name = "Création de vidéos"
-  description = "Sony Vegas / After Effects / Inkscape / GIMP"
+  description = "Sony Vegas / After Effects / Da Vinci Resolve / Inkscape / GIMP"
 
 [[feature]]
   icon = "chart-network"
   icon_pack = "fas"
-  name = "Modélisation Logique"
-  description = "GINsim / MaBoSS"
+  name = "Modélisation Mathématique"
+  description = "Modélisation logique (GINsim), Equations différentielles (ODE)"
 
 
 [[feature]]
   icon = "dna"
   icon_pack = "fas"
   name = "Biologie"
-  description = "Biologie moléculaire / Microbiologie"
+  description = "Biologie moléculaire / Microbiologie / Oncologie / Immunologie"
 
 +++

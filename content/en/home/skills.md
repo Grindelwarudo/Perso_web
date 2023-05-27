@@ -48,14 +48,14 @@ subtitle = ""
 [[feature]]
   icon = "chart-network"
   icon_pack = "fas"
-  name = "Logical modelling"
-  description = "GINsim / MaBoSS"
+  name = "Mathematical modelling"
+  description = "Logical modelling (GINsim) / ODE"
 
 
 [[feature]]
   icon = "dna"
   icon_pack = "fas"
   name = "Biology"
-  description = "Molecular Biology / Microbiology"
+  description = "Molecular Biology / Microbiology / Oncology / Immunology"
 
 +++

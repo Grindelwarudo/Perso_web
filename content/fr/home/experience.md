@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Biomodélisateur"
+  company = "Novadiscovery"
+  company_url = "https://www.novadiscovery.com/"
+  location = "Lyon"
+  date_start = "2021-03"
+  date_end = ""
+  description = """
+  
+  Rôle: Améliorer les essais cliniques en construisant des modèles mathématiques de maladies.
+  """
+
+
+[[experience]]
   title = "Attaché Temporaire d'Enseignement et de Recherche"
   company = "Aix-Marseille Université"
   company_url = ""
